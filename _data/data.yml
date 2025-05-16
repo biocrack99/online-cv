@@ -8,19 +8,19 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Aníbal de Paul
+  tagline: Phd Visual Optics
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  email: anibal_depaul@hotmail.com
+  phone: 5493816556643
+  timezone: America/Buenos Aires # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Argentinian/Spanish
+  website: https://biocrack99.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
+  linkedin: anibal-de-paul
+  xing: 
+  github: biocrack99
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -37,27 +37,24 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Spanish
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: English
+      level: Medium
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Kiteboarding
       link:
 
 
-    - item: Snowboarding
+    - item: Music
       link:
 
 
-    - item: Cooking
+    - item: Sports science
       link:
 
 
