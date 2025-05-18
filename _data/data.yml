@@ -89,19 +89,11 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Optical Department Leader
+    time: 2024 - Present
+    company: Stamm Biotech, Buenos Aires
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      Currently, I lead the optics department at a biotechnology startup, where we design, develop, and integrate optical systems for innovative biomedical applications and 3d printers. My role includes managing the optics laboratory and maintaining its infrastructure, coordinating multidisciplinary teams, and defining technical strategies aligned with product and regulatory requirements. I also develop and track performance metrics to assess team effectiveness and project outcomes, fostering continuous improvement and operational excellence throughout all stages of development—from concept to prototype and beyond.
         - Bullet point
         - Bullet point
   - role: Senior Software Engineer
