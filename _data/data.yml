@@ -65,25 +65,24 @@ career-profile:
     Over the past years, I’ve built a multidisciplinary profile that blends optical design, technical support for ophthalmic equipment, 
     and hands-on experience in optical laboratories. I’ve also contributed to R&D projects in the biotechnology sector and developed 
     projection systems for 3D printing applications. My work is driven by the goal of creating precise, reliable, 
-    and innovative solutions that support vision science and eye care technologies. 
-    I believe in bridging science and application to improve both clinical outcomes and user experiences.
+    and innovative solutions that support vision science, eye care technologies, optic and lighting design and assembly and alignment of optical systems  
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: PhD in Visual Environment and Efficient Lighting 
+    university: National University of Tucuman
+    time: 2009 - 2012; 2016 - 2018 (two periods)
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      I have worked in the design, assembly and tuning of an optical quality quantification system
+using the double-pass technique and a Hartmann-Shack sensor. The aim of
+my work at this stage, apart from the fine-tuning of the measurement
+system, was to quantify intraocular diffusion in the periphery (> 2°) of
+the visual axis. We demonstrated that by using a new parameter (AFSI
+aberration free scatter index) we could quantify diffusion in double-pass
+images without aberrations affecting the measurement in the periphery
+  - degree: Msc in Visual Environment and Efficiente Lighting
+    university: Natinal University of Tucuman
+    time: 2010
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
