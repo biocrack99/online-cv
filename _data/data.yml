@@ -114,9 +114,9 @@ publications:
     bibendum fringilla a eu lectus.
   papers:
   - title: Implementation of the frequency scatter index in clinical commercially available double-pass systems
-    link: "https://doi.org/10.1080/02713683.2021.2002908"
+    link: https://doi.org/10.1080/02713683.2021.2002908
     authors: Roberto F Sánchez, Carlos E García-Guerra, Joan A Martínez-Roda, Aníbal G de Paul, Luis A Issolio, Jaume Pujol
-    conference: Current Eye Research, 47(3), 391–398. 
+    conference: Current Eye Research, 47(3), 391–398.
   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     link: "#"
     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
