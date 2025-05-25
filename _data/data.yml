@@ -65,7 +65,7 @@ career-profile:
     Over the past years, I’ve built a multidisciplinary profile that blends optical design, technical support for ophthalmic equipment, 
     and hands-on experience in optical laboratories. I’ve also contributed to R&D projects in the biotechnology sector and developed 
     projection systems for 3D printing applications. My work is driven by the goal of creating precise, reliable, 
-    and innovative solutions that support vision science, eye care technologies, optic and lighting design and assembly and alignment of optical systems  
+    and innovative solutions that support vision science, eye care technologies, using optics and lighting design. 
 education:
   title: Education
   info:
@@ -78,13 +78,7 @@ education:
     university: National University of Tucuman
     time: 2010
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Comprehensive training in the design, integration, and evaluation of indoor and outdoor lighting systems, with a focus on both technical and human-centered approaches. The program covers 3D simulations, field measurements, and the use of light measurement instruments to assess both objective and subjective performance. Emphasizes the visual and non-visual effects of lighting based on Human-Centric Lighting principles. Prepares professionals for roles in industry, product development, quality control, and education, while also serving as a foundation for further postgraduate studies.
 
 experiences:
   title: Experiences
@@ -94,31 +88,21 @@ experiences:
     company: Stamm Biotech, Buenos Aires
     details: |
       Currently, I lead the optics department at a biotechnology startup, where we design, develop, and integrate optical systems for innovative biomedical applications and 3d printers. My role includes managing the optics laboratory and maintaining its infrastructure, coordinating multidisciplinary teams, and defining technical strategies aligned with product and regulatory requirements. I also develop and track performance metrics to assess team effectiveness and project outcomes, fostering continuous improvement and operational excellence throughout all stages of development—from concept to prototype and beyond.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Optics Engineer
+    time: 2022 - 2024
+    company: Stamm Biotech, Buenos Aires
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      In this position, the main activities included the design, assembly, integration, and evaluation of UV projection systems, Raman spectroscopy setups, and fluorescent detection systems.
+  - role: Posdoc Researcher
+    time: 2018 - 2021
+    company: ILAV-CONICET, Tucumán 
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
+      Conducted a study on visual attention using two psychophysical tasks programmed in Psychtoolbox: the attentional window task and multiple object tracking (MOT). Eye-tracking was performed with a Cambridge Research Systems device and analyzed using MATLAB. The experiment aimed to explore transfer and modulation effects in attentional focus. Data analysis was carried out in R and Python.
+  - role: Technical Coordinator 
+    time: 2013 - 2014
+    company: NIPRO Medical, Buenos Aires 
+    details: |
+      Coordinated technical service operations, organizing maintenance and repair visits to dialysis centers, primarily for hemodialysis equipment. Also provided technical support during the sales process, assisting with product demonstrations and client consultations.
 certifications:
   title: Certifications
   list:
@@ -159,48 +143,6 @@ certifications:
       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
       Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
   title: Publications
