@@ -116,31 +116,31 @@ publications:
   - title: Implementation of the frequency scatter index in clinical commercially available double-pass systems
     link: https://doi.org/10.1080/02713683.2021.2002908
     authors: Roberto F Sánchez, Carlos E García-Guerra, Joan A Martínez-Roda, Aníbal G de Paul, Luis A Issolio, Jaume Pujol
-    journal: Current Eye Research, 47(3), 391–398.
+    conference: Current Eye Research, 47(3), 391–398.
   - title: Transmittance measurement of the in vivo human eye with a double-pass system
     link: https://doi.org/10.37190/oa210101
     authors: Sánchez R., de Paul A., Burgos-Fernandez F., Vilaseca M., Pujol J. and Issolio L.
-    journal: Optica Applicata, vol. 51(1). pag.1-21.
+    conference: Optica Applicata, vol. 51(1). pag.1-21.
   - title: Determination of the optimun double-pass image through focus operators
     link: https://doi.org/10.1364/JOSAA.35.000020
     authors: Anibal G. de Paul, Roberto F. Sanchez and Luis A. Issolio.
-    journal: Journal of the Optical Society of America A, vol. 35(1), pag. 20-27. 
+    conference: Journal of the Optical Society of America A, vol. 35(1), pag. 20-27. 
   - title: Volunteer Science for All An Experience of Engineering and Psychology Students in High School
     link: https://www.facet.unt.edu.ar/revistacet/wp-content/uploads/sites/28/2023/03/37EXT-02.pdf
     authors: J.E Satillán, E. Colombo, R.G. de la Rosa, M. C. Barrionuevo, L. Lazarte, P. Barrionuevo, B. Silva, A. de Paul, C. Paz Filgueira, F. Mamaní, I. Jerez, N. Valladares.
-    journal: CET. Revista de Ciencias Exactas e Ingeniería. FACET. UNT. vol. 37 pag. 21-29.ISSN 1668-8910.
+    conference: CET. Revista de Ciencias Exactas e Ingeniería. FACET. UNT. vol. 37 pag. 21-29.ISSN 1668-8910.
   - title: Development of a double-pass system for measuring the quality of retinal images
     link: https://www.facet.unt.edu.ar/revistacet/wp-content/uploads/sites/28/2023/03/n36inftec.pdf
     authors: de Paul Aníbal, Sanchéz Roberto, Corregidor Diego Jimenez Gustavo, Issolio, Luis.
-    journal: CET. Revista de Ciencias Exactas e Ingeniería. FACET. UNT. vol. 36 pag. 64-73.ISSN 1668-9178.
+    conference: CET. Revista de Ciencias Exactas e Ingeniería. FACET. UNT. vol. 36 pag. 64-73.ISSN 1668-9178.
   - title: Methodology to evaluate glare effects in corrected ammetropics subjects
     link: https://doi.org/10.7149/OPA.46.3.285
     authors: Aníbal G. de Paul, Elisa M. Colombo, Silvia. A. Comastri, Juan A. Aparicio, José A. Menéndez, Luis A. Issolio.
-    journal: OPTICA PURA Y APLICADA vol. 46 (3), pag. 285-293
+    conference: OPTICA PURA Y APLICADA vol. 46 (3), pag. 285-293
   - title: Obtaining digital files from radiographic films
     link: https://doi.org/10.1088/1742-6596/90/1/012071
     authors: Leonardo B Lavena, Amanda G Romero, Anibal De Paul, Luis A Rocha, Viviana I Rotger and Juan M Olivera. 
-    journal: J.Phys. Conference Serries
+    conference: J.Phys. Conference Serries
 # recommendations:
 #   title: Recommendations
 #   list:
