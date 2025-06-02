@@ -100,7 +100,7 @@ experiences:
     time: 2018 - 2021
     company: ILAV-CONICET, Tucumán 
     details: |
-      Conducted a study on visual attention using two psychophysical tasks programmed in Psychtoolbox: the attentional window task and multiple object tracking (MOT). Eye-tracking was performed with a Cambridge Research Systems device and analyzed using MATLAB. The experiment aimed to explore transfer and modulation effects in attentional focus. Data analysis was carried out in R and Python.
+      During this period, I conducted a study on visual attention using two psychophysical tasks programmed in Psychtoolbox: the attentional window task and multiple object tracking (MOT). Also, an eye-tracking record was performed with a Cambridge Research Systems device and analyzed using MATLAB. The experiment aimed to explore transfer and modulation effects in attentional focus. Data analysis was carried out in R and Python.
   - role: Technical Coordinator 
     time: 2013 - 2014
     company: NIPRO Medical, Buenos Aires 
