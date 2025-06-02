@@ -109,9 +109,6 @@ experiences:
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
   papers:
   - title: Implementation of the frequency scatter index in clinical commercially available double-pass systems
     link: https://doi.org/10.1080/02713683.2021.2002908
@@ -140,7 +137,7 @@ publications:
   - title: Obtaining digital files from radiographic films
     link: https://doi.org/10.1088/1742-6596/90/1/012071
     authors: Leonardo B Lavena, Amanda G Romero, Anibal De Paul, Luis A Rocha, Viviana I Rotger and Juan M Olivera. 
-    conference: J.Phys. Conference Serries
+    conference: J.Phys. Conference Series
 # recommendations:
 #   title: Recommendations
 #   list:
