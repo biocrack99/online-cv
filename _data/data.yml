@@ -117,11 +117,10 @@ publications:
     link: https://doi.org/10.1080/02713683.2021.2002908
     authors: Roberto F Sánchez, Carlos E García-Guerra, Joan A Martínez-Roda, Aníbal G de Paul, Luis A Issolio, Jaume Pujol
     conference: Current Eye Research, 47(3), 391–398.
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
+  - title: Transmittance measurement of the in vivo human eye with a double-pass system
+    link: https://doi.org/10.37190/oa210101
+    authors: Sánchez R., de Paul A., Burgos-Fernandez F., Vilaseca M., Pujol J. and Issolio L.
+    conference: Optica Applicata, vol. 51(1). pag.1-21.
   - title: A syntax directed compiler for Algol 60
     link: "#"
     authors: Edgar T. Irons
