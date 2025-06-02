@@ -121,11 +121,18 @@ publications:
     link: https://doi.org/10.37190/oa210101
     authors: Sánchez R., de Paul A., Burgos-Fernandez F., Vilaseca M., Pujol J. and Issolio L.
     conference: Optica Applicata, vol. 51(1). pag.1-21.
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
+  - title: Determination of the optimun double-pass image through focus operators
+    link: https://doi.org/10.1364/JOSAA.35.000020
+    authors: Anibal G. de Paul, Roberto F. Sanchez and Luis A. Issolio.
+    conference: Journal of the Optical Society of America A, vol. 35(1), pag. 20-27. 
+  - title: Voluntariado “Ciencia para Todos“: Una Experiencia de Estudiantes de Ingeniería y Psicología en la Escuela Secundaria (Volunteer Science for All: An Experience of Engineering and Psychology Students in High School)
+    link: https://www.facet.unt.edu.ar/revistacet/wp-content/uploads/sites/28/2023/03/37EXT-02.pdf
+    authors: J.E Satillán, E. Colombo, R.G. de la Rosa, M. C. Barrionuevo, L. Lazarte, P. Barrionuevo, B. Silva, A. de Paul, C. Paz Filgueira, F. Mamaní, I. Jerez, N. Valladares.
+    conference: CET. Revista de Ciencias Exactas e Ingeniería. FACET. UNT. vol. 37 pag. 21-29.ISSN: 1668-8910.
+    - title: Desarrollo de un sistema de doble paso para la medición de la calidad de las imágenes retinianas (Development of a double-pass system for measuring the quality of retinal images)
+    link: https://www.facet.unt.edu.ar/revistacet/wp-content/uploads/sites/28/2023/03/n36inftec.pdf
+    authors: de Paul Aníbal, Sanchéz Roberto, Corregidor Diego Jimenez Gustavo, Issolio, Luis.
+    conference: CET. Revista de Ciencias Exactas e Ingeniería. FACET. UNT. vol. 36 pag. 64-73.ISSN: 1668-9178.
 recommendations:
   title: Recommendations
   list:
