@@ -101,6 +101,11 @@ experiences:
     company: ILAV-CONICET, Tucumán 
     details: |
       During this period, I conducted a study on visual attention using two psychophysical tasks programmed in Psychtoolbox: the attentional window task and multiple object tracking (MOT). Also, an eye-tracking record was performed with a Cambridge Research Systems device and analyzed using MATLAB. The experiment aimed to explore transfer and modulation effects in attentional focus. Data analysis was carried out in R and Python.
+  - role: Co-founder - Bioingeniería Integral Soluciones
+    time: 2014-2022
+    company: Bioingenieria Integral Soluciones
+    details: |
+      Developed optical and biomedical solutions for research and industry. Supervised integration of imaging systems and provided technical service for optical instrumentation.
   - role: Technical Coordinator 
     time: 2013 - 2014
     company: NIPRO Medical, Buenos Aires 
